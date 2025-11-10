@@ -18,7 +18,7 @@ and demonstrate how combining diverse models can lead to improved predictive per
 
 ## Repository Structure
 
-├── Assignment_8_ME21B003.ipynb # Main Colab Notebook
+├── Assignment_8_ME21B003.ipynb # Main Colab Notebook  
 ├── README.md # This file
 
 ---
