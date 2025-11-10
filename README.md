@@ -1,6 +1,10 @@
 # DA5401 Assignment 8 — Ensemble Learning for Complex Regression  
 ### **Bike Sharing Demand Prediction**
 
+**Course:** Data Analytics (DA5401)  
+**Student**: Abesech Inbasekar  
+**Roll Number**: ME21B003
+
 ---
 
 ##  Overview
