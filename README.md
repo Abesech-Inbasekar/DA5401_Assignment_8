@@ -113,13 +113,10 @@ evaluating their effectiveness based on **Root Mean Squared Error (RMSE)**.
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 - **RMSE Comparison Bar Chart**
-- **Bias–Variance Trade-off Illustration**
-- **Feature Engineering Pipeline Diagram (optional)**
-
-Each plot is generated in the notebook under **Part D: Final Analysis**.
+Plot is generated in the notebook under **Part D: Final Analysis**.
 
 ---
 
